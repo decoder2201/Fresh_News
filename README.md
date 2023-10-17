@@ -1,3 +1,5 @@
+<Strong> <a href="https://decoder2201.github.io/Fresh_News/">Check This!</a> 
+
 <h1># Fresh_News </h1>
 <h3>This is a news and articles website which directly interact with main web pages of articles and news with the help of API and ReactJS. </h3>
 
